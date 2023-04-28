@@ -13,11 +13,11 @@ https://ragu-portfol.web.app/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/235168779-b6595aa2-db95-4947-9c9e-90a406bd0928.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/235168938-5413358f-af6a-49b7-a807-d589068b470d.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/235169042-f847ce59-9bd8-4200-9706-b69b7cd4ed76.png)
 
 ## Tech Stack
 
